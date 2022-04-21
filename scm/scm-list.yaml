@@ -139,6 +139,7 @@ repositories:
 - uri: "https://github.com/FasterXML/woodstox.git"
   uuid: "95315e4b-dcf1-45d0-9d02-a4154507bd26"
 - uri: "https://github.com/GoogleCloudPlatform/bigdata-interop"
+  disabled: true
   uuid: "1f5509ed-4c11-4dac-a83e-d3d679484e94"
 - uri: "https://github.com/HdrHistogram/HdrHistogram.git"
   uuid: "2f7cf702-d29e-4697-a0dd-5b1f67ed1833"
@@ -245,6 +246,7 @@ repositories:
 - uri: "https://github.com/apache/httpasyncclient.git"
   uuid: "8c66b039-90b3-4cdb-9e02-28a203f74b7b"
 - uri: "https://github.com/apache/httpclient.git"
+  disabled: true
   uuid: "08ad7a04-85b3-4bd8-ae02-be9bf795f576"
 - uri: "https://github.com/apache/httpcomponents-parent.git"
   uuid: "59f5ce82-5386-41cc-9af7-89a7bc7ff9f9"
@@ -273,8 +275,10 @@ repositories:
 - uri: "https://github.com/apache/qpid-protonj2"
   uuid: "513082d3-e87e-431e-90bf-7dc007d4601a"
 - uri: "https://github.com/apache/santuario-java.git"
+  disabled: true
   uuid: "2a2f2e9d-7cc0-4dc5-9659-d1f11676384c"
 - uri: "https://github.com/apache/santuario-xml-security-java.git"
+  disabled: true
   uuid: "5522eaab-7048-4df5-9c7f-28e568a15321"
 - uri: "https://github.com/apache/servicemix-bundles.git"
   uuid: "049a6fce-9cf1-4fa5-8b30-3769ed8e07de"
@@ -307,6 +311,7 @@ repositories:
 - uri: "https://github.com/bcgit/bc-java.git"
   uuid: "aceed2dd-1c75-422a-8ebe-d34df660d853"
 - uri: "https://github.com/beanvalidation/beanvalidation-api.git"
+  disabled: true
   uuid: "b37b7704-257e-4277-923e-7f6f210ef7c7"
 - uri: "https://github.com/belaban/JGroups.git"
   uuid: "4b521a61-5d55-498a-9c84-2715c2c6cbd2"
@@ -601,6 +606,7 @@ repositories:
 - uri: "https://github.com/infinispan/infinispan-quarkus.git"
   uuid: "5f3544b6-7b94-4ff0-b657-84acd7733352"
 - uri: "https://github.com/infinispan/infinispan-spring-boot"
+  disabled: true
   uuid: "b353d02d-2899-49b9-948e-4a8c58420607"
 - uri: "https://github.com/infinispan/infinispan.git"
   uuid: "947f661a-97ca-49a4-ab48-a7d8408d2622"
@@ -671,8 +677,8 @@ repositories:
 - uri: "https://github.com/javaee/jaxb-v2.git"
   uuid: "636d31f3-4047-4867-aeda-3c2b84b77994"
 - uri: "https://github.com/javaee/jersey.git"
-  uuid: "b30e5760-b23b-498a-a9da-eb21fbe42a59"
   disabled: true
+  uuid: "b30e5760-b23b-498a-a9da-eb21fbe42a59"
 - uri: "https://github.com/javaee/jpa-spec.git"
   uuid: "f9d47791-8f3f-4513-a12d-8a0abe832ecf"
 - uri: "https://github.com/javaee/jsonb-spec.git"
@@ -882,8 +888,10 @@ repositories:
 - uri: "https://github.com/jboss-set/mjolnir.git"
   uuid: "4915dd42-1fe3-47cb-99dc-e847337cff40"
 - uri: "https://github.com/jboss/jboss-annotations-api_spec.git"
+  disabled: true
   uuid: "58eea762-bc8b-428a-a590-6e3f5fc195f9"
 - uri: "https://github.com/jboss/jboss-batch-api_spec.git"
+  disabled: true
   uuid: "d4b0ce52-82b9-459f-bfb2-ed9cbf4d7fa2"
 - uri: "https://github.com/jboss/jboss-common-beans.git"
   uuid: "7d438117-8d4a-4a2c-9744-0ebea13c46eb"
@@ -892,8 +900,10 @@ repositories:
 - uri: "https://github.com/jboss/jboss-ejb-api_spec.git"
   uuid: "48d0ea41-9b60-4af8-8c0a-9415768cdf8a"
 - uri: "https://github.com/jboss/jboss-el-api_spec.git"
+  disabled: true
   uuid: "a2def93e-c48f-432b-a113-53a04a919e71"
 - uri: "https://github.com/jboss/jboss-interceptors-api_spec.git"
+  disabled: true
   uuid: "c2d81dff-6bb1-40fc-8996-d351045be440"
 - uri: "https://github.com/jboss/jboss-j2eemgmt-api_spec.git"
   uuid: "1abfeee6-81a7-4e88-aae1-3b5a69b892a6"
@@ -1120,6 +1130,7 @@ repositories:
 - uri: "https://github.com/kiegroup/drools.git"
   uuid: "e516f7c0-a8f1-4ed0-8e11-3c757b4c30b8"
 - uri: "https://github.com/kiegroup/droolsjbpm-build-bootstrap.git"
+  disabled: true
   uuid: "a08f8950-132a-4dff-9dfd-df8a38226939"
 - uri: "https://github.com/kiegroup/droolsjbpm-integration.git"
   uuid: "7db4bf32-6764-41d1-9cb9-556cf9448e3c"
@@ -1262,6 +1273,7 @@ repositories:
 - uri: "https://github.com/opentracing-contrib/java-web-servlet-filter.git"
   uuid: "cd6656bc-f885-456a-8f2d-232aa1a0b1be"
 - uri: "https://github.com/operator-framework/bigdata-interop"
+  disabled: true
   uuid: "916b09f2-a7ab-46e7-9b06-3a0d00fb7a77"
 - uri: "https://github.com/operator-framework/hadoop"
   uuid: "78493544-192b-434c-897a-153a67b3c152"
