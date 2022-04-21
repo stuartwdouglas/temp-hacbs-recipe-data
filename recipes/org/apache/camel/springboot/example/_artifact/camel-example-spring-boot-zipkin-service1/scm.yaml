@@ -1,0 +1,3 @@
+---
+type: "git"
+uri: "git@github.com:jboss-fuse/camel-spring-boot-examples.git"
