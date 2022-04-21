@@ -62,6 +62,7 @@ repositories:
 - uri: "https://bitbucket.org/connect2id/oauth-2.0-sdk-with-openid-connect-extensions.git"
   uuid: "b72cf7b4-f123-412b-9a46-ae640dafcd6e"
 - uri: "https://bitbucket.org/connect2id/oauth-2.0-sdk-with-openid-connect-extensions/src/master.git"
+  disabled: true
   uuid: "d7d7ae56-9fe0-40ec-80fb-5a64b129f5dd"
 - uri: "https://bitbucket.org/snakeyaml/snakeyaml.git"
   uuid: "07c2ab70-95c5-43e5-9d10-86e9efd52bee"
@@ -83,6 +84,7 @@ repositories:
   failed: true
   failedReason: "CLONE_FAILURE"
 - uri: "https://gitbox.apache.org/repos/asf/maven-apache-parent.git"
+  disabled: true
   uuid: "b791ac7b-a7b5-4c29-af49-517a240967e6"
 - uri: "https://github.com/Apicurio/apicurio-data-models"
   uuid: "5c351b71-bd48-4b6f-a0ea-d72fe81929c7"
@@ -122,6 +124,7 @@ repositories:
   uuid: "9cae436e-f68c-48c2-8922-8d7844c8a8d0"
 - uri: "https://github.com/FasterXML/jackson-module-jaxb-annotations.git"
   uuid: "14bb0d43-e97a-4271-bc12-4d60abc61a66"
+  deprecated: true
 - uri: "https://github.com/FasterXML/jackson-module-jsonSchema.git"
   uuid: "a35eb97e-46f2-408b-8320-3eb2a9662d7f"
 - uri: "https://github.com/FasterXML/jackson-modules-base.git"
@@ -188,6 +191,7 @@ repositories:
 - uri: "https://github.com/alibaba/fastjson"
   uuid: "9e8b057a-03a9-4566-aac2-62b5b463c52e"
 - uri: "https://github.com/almope/kogito-runtimes.git"
+  disabled: true
   uuid: "4ee9eb92-c800-442f-a3a4-faad0d4270ca"
 - uri: "https://github.com/amqp/rhea"
   uuid: "a98d80b9-88f7-4566-836c-7171261ca7ac"
@@ -307,6 +311,7 @@ repositories:
 - uri: "https://github.com/arenn/java-getopt.git"
   uuid: "0217be32-0333-420f-95bd-e3b0e9b76067"
 - uri: "https://github.com/atlasmap/atlasmap.git"
+  disabled: true
   uuid: "40a37aab-b282-4ead-a094-7fd3e04eb9a7"
 - uri: "https://github.com/bcgit/bc-java.git"
   uuid: "aceed2dd-1c75-422a-8ebe-d34df660d853"
@@ -322,6 +327,7 @@ repositories:
 - uri: "https://github.com/carrotsearch/hppc"
   uuid: "93b1ac02-6544-47a6-9a60-c0c68e96e8dd"
 - uri: "https://github.com/cdi-spec/cdi.git"
+  disabled: true
   uuid: "4ce96e03-86e5-4b68-813a-0dd7e93ebb97"
 - uri: "https://github.com/census-instrumentation/opencensus-java"
   uuid: "515fbaa7-3c15-468f-8895-01cde0cb7790"
@@ -346,8 +352,10 @@ repositories:
 - uri: "https://github.com/cryostatio/jfr-datasource"
   uuid: "94a8c0dd-8ef0-4672-872b-e692f86ff6eb"
 - uri: "https://github.com/ctron/enmasse"
+  disabled: true
   uuid: "775f8792-7791-40c3-a5c9-33c3245121b4"
 - uri: "https://github.com/ctron/hono.git"
+  disabled: true
   uuid: "4d731d5b-b990-4db7-8c67-37662fec27b4"
 - uri: "https://github.com/datastax/java-driver-shaded-guava.git"
   uuid: "d3807d5c-9b2b-4acd-90b5-b544135fb1d3"
@@ -693,6 +701,7 @@ repositories:
   uuid: "941c93eb-5b3c-4be5-aeda-151ebe44a608"
 - uri: "https://github.com/javaee/security-soteria.git"
   uuid: "89044b15-f4de-4977-9063-b0432fa3811d"
+  deprecated: true
 - uri: "https://github.com/javax-inject/javax-inject"
   uuid: "969b7eb2-b045-44a1-ad82-a989a27231b7"
 - uri: "https://github.com/jberet/jsr352.git"
@@ -700,6 +709,7 @@ repositories:
 - uri: "https://github.com/jboss-developer/jboss-jdg-quickstarts.git"
   uuid: "5cca4a28-ba1a-4cdc-8f0f-77c2c87c637e"
 - uri: "https://github.com/jboss-fuse/apicurio-registry.git"
+  disabled: true
   uuid: "f7a70204-47ed-4332-a233-e6d4145b9b1d"
 - uri: "https://github.com/jboss-fuse/apicurito.git"
   uuid: "58259b59-8095-4ebb-bda4-029007cbb4bb"
@@ -734,6 +744,7 @@ repositories:
   failedReason: "CLONE_FAILURE"
   uuid: "0513df5c-7e62-41b6-9aa1-442887e62489"
 - uri: "https://github.com/jboss-fuse/cxf-xjc-utils.git"
+  disabled: true
   uuid: "1537558f-eab7-4cf1-b0b7-d7746e6d1db2"
 - uri: "https://github.com/jboss-fuse/cxf.git"
   failed: true
@@ -762,6 +773,7 @@ repositories:
 - uri: "https://github.com/jboss-fuse/fuse-istio-distributed-tracing-booster.git"
   uuid: "c4cdb44f-c08d-44e9-a6b1-7f64c4ebc912"
 - uri: "https://github.com/jboss-fuse/fuse-karaf.git"
+  disabled: true
   uuid: "0087fda0-cb5b-4ac8-a4d5-d75a96f1225a"
 - uri: "https://github.com/jboss-fuse/fuse-patch-do-not-use-anymore.git"
   failed: true
@@ -780,12 +792,14 @@ repositories:
   failedReason: "CLONE_FAILURE"
   uuid: "7bdd1c00-2a8f-4b83-be61-1e92ce56689e"
 - uri: "https://github.com/jboss-fuse/ipaas-quickstarts.git"
+  disabled: true
   uuid: "e7f053f4-763a-497e-ac2b-4a1ba93c3179"
 - uri: "https://github.com/jboss-fuse/jira-rest-java-client.git"
   failed: true
   failedReason: "CLONE_FAILURE"
   uuid: "1757b177-c660-4f0f-a55b-eaa2ff107693"
 - uri: "https://github.com/jboss-fuse/kamelet-catalog.git"
+  disabled: true
   uuid: "9a088677-5c73-4e78-bfa2-f1eb3e0b0b97"
 - uri: "https://github.com/jboss-fuse/karaf-quickstarts.git"
   uuid: "db3c7e95-cd72-4376-8b97-b26e1a3ec574"
@@ -795,7 +809,9 @@ repositories:
   uuid: "5b1b7106-e8bf-43aa-8490-c83cc81c20c5"
 - uri: "https://github.com/jboss-fuse/kubernetes-client.git"
   uuid: "0d4bdd36-10cd-407f-bd5a-ef7dcb629e85"
+  disabled: true
 - uri: "https://github.com/jboss-fuse/kubernetes-model.git"
+  disabled: true
   uuid: "024a04cb-2dba-4cf0-a43e-5e42768426ac"
 - uri: "https://github.com/jboss-fuse/maven-exclude-extension.git"
   uuid: "c78e7b78-e77e-49c2-9c81-0b8bdaca2ae5"
@@ -804,6 +820,7 @@ repositories:
 - uri: "https://github.com/jboss-fuse/modeshape.git"
   uuid: "4a6f17a2-0961-4edc-94d4-bebde91162f9"
 - uri: "https://github.com/jboss-fuse/narayana-spring-boot.git"
+  disabled: true
   uuid: "c173b598-ff3e-453a-92d5-fbf3fc483a33"
 - uri: "https://github.com/jboss-fuse/oreva.git"
   failed: true
@@ -812,6 +829,7 @@ repositories:
 - uri: "https://github.com/jboss-fuse/redhat-fuse.git"
   uuid: "fe11f875-7aa3-460d-8291-13e4836c4fb5"
 - uri: "https://github.com/jboss-fuse/servicemix-bundles.git"
+  disabled: true
   uuid: "56339558-cb13-4c10-99f6-40776fdddd42"
 - uri: "https://github.com/jboss-fuse/spring-boot-camel-xa.git"
   uuid: "7dfa9032-e285-4d77-99d1-cc6e33a256c3"
@@ -907,6 +925,7 @@ repositories:
   uuid: "c2d81dff-6bb1-40fc-8996-d351045be440"
 - uri: "https://github.com/jboss/jboss-j2eemgmt-api_spec.git"
   uuid: "1abfeee6-81a7-4e88-aae1-3b5a69b892a6"
+  deprecated: true
 - uri: "https://github.com/jboss/jboss-jakarta-annotations-api_spec.git"
   uuid: "94a70cea-6d8b-471c-8763-da2e8955323d"
 - uri: "https://github.com/jboss/jboss-jakarta-batch-api_spec.git"
@@ -953,12 +972,14 @@ repositories:
   uuid: "082ffa0e-8d10-44f0-8e38-914d847ddd6b"
 - uri: "https://github.com/jboss/jboss-jaspi-api_spec.git"
   uuid: "b4487f78-9457-40f6-9fa6-844ad3eeab91"
+  deprecated: true
 - uri: "https://github.com/jboss/jboss-javaee-concurrency-api_spec.git"
   uuid: "118ccdb5-65d3-459c-8451-13715b39d65a"
 - uri: "https://github.com/jboss/jboss-javaee-specs.git"
   uuid: "ae3dcb2a-35bf-4e31-955c-77f91d90c44f"
 - uri: "https://github.com/jboss/jboss-jaxb-api_spec.git"
   uuid: "11fe1163-57e4-472a-a31f-0eff97354af7"
+  deprecated: true
 - uri: "https://github.com/jboss/jboss-jaxrpc-api_spec.git"
   uuid: "fae22515-747a-4707-b5ed-a2e82f840af8"
 - uri: "https://github.com/jboss/jboss-jaxrs-api_spec.git"
@@ -971,6 +992,7 @@ repositories:
   uuid: "200e484a-b965-431e-a206-674aa61f6f0f"
 - uri: "https://github.com/jboss/jboss-jsp-api_spec.git"
   uuid: "bf35b959-3de7-4c20-9545-035fc0ded823"
+  deprecated: true
 - uri: "https://github.com/jboss/jboss-parent-pom.git"
   uuid: "9247f357-03d1-47fd-a708-8b8d0788a152"
 - uri: "https://github.com/jboss/jboss-rmi-api_spec.git"
@@ -979,6 +1001,7 @@ repositories:
   uuid: "6aabe6df-6276-441b-819e-f4aad2163ed0"
 - uri: "https://github.com/jboss/jboss-servlet-api_spec.git"
   uuid: "ff6c58f1-8a47-46e6-a8cf-25343344e195"
+  deprecated: true
 - uri: "https://github.com/jboss/jboss-transaction-api_spec.git"
   uuid: "8c02af66-8149-417b-9e52-3683c62fbcdb"
 - uri: "https://github.com/jboss/jboss-websocket-api_spec.git"
@@ -992,6 +1015,7 @@ repositories:
 - uri: "https://github.com/jboss/openjdk-orb.git"
   uuid: "e512e5db-9bc2-4c02-9f1a-eb6c3c8351c2"
 - uri: "https://github.com/jboss/uel.git"
+  disabled: true
   uuid: "eb763004-9955-4b79-bdf1-e4d5ff09f574"
 - uri: "https://github.com/jboss/xalan-j.git"
   uuid: "aca2a430-93ad-438c-b4e7-845bad26d600"
@@ -1020,6 +1044,7 @@ repositories:
 - uri: "https://github.com/jbossas/jboss-invocation.git"
   uuid: "3013a88a-b5f9-44f3-bef0-034bb5d3819f"
 - uri: "https://github.com/jbossas/jboss-modules.git"
+  disabled: true
   uuid: "cfa5ea53-3cc6-4a8e-bd22-a3d0ddb02a25"
 - uri: "https://github.com/jbossas/jboss-msc.git"
   uuid: "d1053643-200b-46db-b4b5-0f7a9055a498"
@@ -1136,6 +1161,7 @@ repositories:
   uuid: "7db4bf32-6764-41d1-9cb9-556cf9448e3c"
 - uri: "https://github.com/kiegroup/droolsjbpm-knowledge.git"
   uuid: "6e37dc99-509e-49f6-8abd-0d7e62de0a06"
+  disabled: true
 - uri: "https://github.com/kiegroup/jbpm-designer.git"
   uuid: "88a85afa-9f7e-4195-8e81-701b639a74f4"
 - uri: "https://github.com/kiegroup/jbpm-wb.git"
@@ -1158,6 +1184,7 @@ repositories:
   uuid: "9450d1a8-fa42-4bb8-b447-0e7daf0713dc"
 - uri: "https://github.com/kiegroup/kogito-bom.git"
   uuid: "3c944400-dae0-4907-9ded-6a64cd236c43"
+  disabled: true
 - uri: "https://github.com/kiegroup/kogito-cloud.git"
   uuid: "f7f95a0c-e0ee-47d5-8eb7-8474973da872"
 - uri: "https://github.com/kiegroup/kogito-examples.git"
@@ -1352,6 +1379,7 @@ repositories:
 - uri: "https://github.com/redhat-developer/codeready-workspaces.git"
   uuid: "d4fae681-4230-404e-89d6-3d9dd98bf88c"
 - uri: "https://github.com/redhat-iot/hono"
+  disabled: true
   uuid: "36a3ac82-2367-4950-80b4-2b75c66f4946"
 - uri: "https://github.com/remkop/picocli.git"
   uuid: "fb24faa1-64c4-49b8-a950-6e3b7317c102"
@@ -1360,10 +1388,13 @@ repositories:
 - uri: "https://github.com/resteasy/resteasy-spring-boot.git"
   uuid: "e003261b-96f0-4635-8da3-355986dfcebd"
 - uri: "https://github.com/rh-jmc-team/container-jfr"
+  disabled: true
   uuid: "a550ce82-dddb-40c2-91ca-9c158f1e2254"
 - uri: "https://github.com/rh-jmc-team/container-jfr-core"
+  disabled: true
   uuid: "a9fe0729-e621-4500-b3bb-3ccad48d4f57"
 - uri: "https://github.com/rh-jmc-team/jfr-datasource"
+  disabled: true
   uuid: "cdcbca84-92e0-4cc6-8c42-ba91499fe12e"
 - uri: "https://github.com/rh-messaging/A-MQ7.git"
   failed: true
@@ -1434,6 +1465,7 @@ repositories:
 - uri: "https://github.com/smallrye/smallrye-reactive-streams-operators.git"
   uuid: "c3aed2cd-7663-48d5-962f-76419f391ca4"
 - uri: "https://github.com/smallrye/smallrye-reactive-utils"
+  disabled: true
   uuid: "135b763d-51df-4230-84d8-0f8ab10b27f8"
 - uri: "https://github.com/smallrye/smallrye-rest-client.git"
   uuid: "713193c5-b2f0-4b28-9b86-3416d79b6481"
@@ -1539,6 +1571,7 @@ repositories:
   uuid: "a1defdd0-f2d8-4a7e-9c5d-5912acc8b369"
 - uri: "https://github.com/wildfly-security/wildfly-elytron-tool.git"
   uuid: "d147f708-e54e-44b5-8408-90208a78c607"
+  deprecated: true
 - uri: "https://github.com/wildfly-security/wildfly-elytron.git"
   uuid: "5c2b49c5-439a-40f0-b3a7-397d1e7ede05"
 - uri: "https://github.com/wildfly/jandex.git"
