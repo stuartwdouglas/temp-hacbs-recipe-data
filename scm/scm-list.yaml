@@ -808,8 +808,8 @@ repositories:
   failedReason: "CLONE_FAILURE"
   uuid: "5b1b7106-e8bf-43aa-8490-c83cc81c20c5"
 - uri: "https://github.com/jboss-fuse/kubernetes-client.git"
-  uuid: "0d4bdd36-10cd-407f-bd5a-ef7dcb629e85"
   disabled: true
+  uuid: "0d4bdd36-10cd-407f-bd5a-ef7dcb629e85"
 - uri: "https://github.com/jboss-fuse/kubernetes-model.git"
   disabled: true
   uuid: "024a04cb-2dba-4cf0-a43e-5e42768426ac"
@@ -1160,8 +1160,8 @@ repositories:
 - uri: "https://github.com/kiegroup/droolsjbpm-integration.git"
   uuid: "7db4bf32-6764-41d1-9cb9-556cf9448e3c"
 - uri: "https://github.com/kiegroup/droolsjbpm-knowledge.git"
-  uuid: "6e37dc99-509e-49f6-8abd-0d7e62de0a06"
   disabled: true
+  uuid: "6e37dc99-509e-49f6-8abd-0d7e62de0a06"
 - uri: "https://github.com/kiegroup/jbpm-designer.git"
   uuid: "88a85afa-9f7e-4195-8e81-701b639a74f4"
 - uri: "https://github.com/kiegroup/jbpm-wb.git"
@@ -1183,8 +1183,8 @@ repositories:
 - uri: "https://github.com/kiegroup/kie-wb-playground.git"
   uuid: "9450d1a8-fa42-4bb8-b447-0e7daf0713dc"
 - uri: "https://github.com/kiegroup/kogito-bom.git"
-  uuid: "3c944400-dae0-4907-9ded-6a64cd236c43"
   disabled: true
+  uuid: "3c944400-dae0-4907-9ded-6a64cd236c43"
 - uri: "https://github.com/kiegroup/kogito-cloud.git"
   uuid: "f7f95a0c-e0ee-47d5-8eb7-8474973da872"
 - uri: "https://github.com/kiegroup/kogito-examples.git"
