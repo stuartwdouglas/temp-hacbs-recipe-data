@@ -672,6 +672,7 @@ repositories:
   uuid: "636d31f3-4047-4867-aeda-3c2b84b77994"
 - uri: "https://github.com/javaee/jersey.git"
   uuid: "b30e5760-b23b-498a-a9da-eb21fbe42a59"
+  disabled: true
 - uri: "https://github.com/javaee/jpa-spec.git"
   uuid: "f9d47791-8f3f-4513-a12d-8a0abe832ecf"
 - uri: "https://github.com/javaee/jsonb-spec.git"
